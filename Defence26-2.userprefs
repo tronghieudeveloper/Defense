@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Save_File_Txt\Number_Enemy_Each_Turn\map1_turn1.txt">
+    <Files>
+      <File FileName="Assets\Save_File_Txt\Number_Enemy_Each_Turn\map1_turn1.txt" Line="4" Column="15" />
+      <File FileName="Assets\Script\Camera\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Enemy\EnemyMoveController.cs" Line="69" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

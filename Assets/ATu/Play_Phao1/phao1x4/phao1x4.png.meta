@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 380f75a9d03ee064ea0d282dfdf36240
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: phao1x4_0
+    21300002: phao1x4_3
+    21300004: phao1x4_5
+    21300006: phao1x4_6
+    21300008: phao1x4_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: phao1x4_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 219
+        width: 83
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4863353, y: 0.36428735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: phao1x4_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 94
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: phao1x4_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 126
+        width: 84
+        height: 145
+      alignment: 9
+      pivot: {x: 0.4969388, y: 0.23575345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: phao1x4_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 84
+        height: 86
+      alignment: 9
+      pivot: {x: 0.49387732, y: 0.3714237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: phao1x4_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 84
+        height: 116
+      alignment: 9
+      pivot: {x: 0.49081603, y: 0.29826808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+enemySort1:1
+enemySort2:5
+enemySort3:0
+enemySort4:0
+enemySort5:0
+enemySort6:0
+enemySort7:0
+enemySort8:0
+enemySort9:0
+enemySort10:0
+enemySort11:0
+enemySort12:0
+enemySort13:0
+enemySort14:0
+enemySort15:0

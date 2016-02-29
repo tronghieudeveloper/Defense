@@ -1,0 +1,103 @@
+fileFormatVersion: 2
+guid: 2152c79034aa1ec42a74d424475fa565
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gun_be
+    21300002: gun
+    21300004: gun_shadow
+    21300006: gun2x1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gun_be
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 18
+        width: 51
+        height: 48
+      alignment: 9
+      pivot: {x: 0.50419164, y: 0.4376491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 7
+        width: 43
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29551995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun_shadow
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5
+        width: 49
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3324469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun2x1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 7
+        width: 43
+        height: 86
+      alignment: 9
+      pivot: {x: 0.49502847, y: 0.28042534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

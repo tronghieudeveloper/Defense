@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 0361926773aefbe44bec89299e50fb68
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gun_shadow
+    21300002: gun3
+    21300004: gun
+    21300006: gun_be
+    21300008: gun_shadow
+    21300010: gun4
+    21300012: gun
+    21300014: gun2
+    21300016: gun5
+    21300018: gun_be
+    21300020: gun1
+    21300022: gun6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gun_shadow
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 242
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 246
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47113022, y: 0.5371182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 246
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47676635, y: 0.53006715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48000005, y: 0.5289999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 130
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48032472, y: 0.52951294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 130
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47545776, y: 0.5352797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun_be
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 14
+        width: 78
+        height: 88
+      alignment: 9
+      pivot: {x: 0.4747334, y: 0.5223954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47757417, y: 0.522426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: gun6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 14
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.476225, y: 0.5268764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
