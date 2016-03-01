@@ -18,9 +18,11 @@ public class EnemyMoveController : MonoBehaviour {
 
 	[SerializeField] private bool isRotate = true, isSmoothRotate = true;
 
+	private int enemyTotal=0;
 	private int NUMBER_SORT_ENEMY=15;  // số loại enemy hiện có là 15
 	private int[] numberEnemyEachSort=new int[15]; //mảng lưu các số lượng enemy mỗi loại trên file txt
 	void Awake () {
+		enemyTotal = 0;
 		UpdateParameterNumberEnemyInTurn (turnIndex);
 		StartCoroutine(CallEnemyEachTurn ());	
 	}
@@ -71,6 +73,8 @@ public class EnemyMoveController : MonoBehaviour {
 				for(int j=0;j<numberEnemyEachSort[sortEnemyIndex];j++){
 					GameObject enemyObject=Instantiate(gameObjectMove[sortEnemyIndex],tranformFlag[0].position,Quaternion.identity)as GameObject;
 					enemyObject.transform.SetParent(enemyObjects.transform);
+					enemyObject.name="enemy"+enemyTotal;
+					enemyTotal++;
 					StartCoroutine(Movement(enemyObject));
 					yield return new WaitForSeconds(timeDelayToCallOneEnemy);
 				}

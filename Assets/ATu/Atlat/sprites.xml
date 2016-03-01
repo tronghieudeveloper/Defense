@@ -1,0 +1,14 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="button (1).png" x="1209" y="0" width="54" height="44"/>
+	<SubTexture name="button (10).png" x="1265" y="46" width="54" height="44"/>
+	<SubTexture name="button (11).png" x="1209" y="46" width="54" height="44"/>
+	<SubTexture name="button (12).png" x="1265" y="0" width="54" height="44"/>
+	<SubTexture name="button (2).png" x="0" y="60" width="1024" height="50"/>
+	<SubTexture name="button (3).png" x="0" y="0" width="1024" height="58"/>
+	<SubTexture name="button (4).png" x="1026" y="0" width="59" height="48"/>
+	<SubTexture name="button (5).png" x="1087" y="50" width="59" height="48"/>
+	<SubTexture name="button (6).png" x="1148" y="50" width="59" height="48"/>
+	<SubTexture name="button (7).png" x="1148" y="0" width="59" height="48"/>
+	<SubTexture name="button (8).png" x="1087" y="0" width="59" height="48"/>
+	<SubTexture name="button (9).png" x="1026" y="50" width="59" height="48"/>
+</TextureAtlas>
